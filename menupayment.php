@@ -1,2 +1,2 @@
 menupayment nih
-cnjo edit menupayment
+cpeter edit nih
